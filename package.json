@@ -1,0 +1,26 @@
+{
+  "name": "openbook",
+  "version": "1.0.0",
+  "description": "Open Book: A web app for open source beginners, providing a roadmap to start and contribute to open source projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshDeep61034/openbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshDeep61034/openbook/issues"
+  },
+  "homepage": "https://github.com/HarshDeep61034/openbook#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.1"
+  }
+}
